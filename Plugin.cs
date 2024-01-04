@@ -3,7 +3,7 @@ using BepInEx.Unity.Mono;
 
 namespace all_my_fellas_radio;
 
-[BepInPlugin(MyPluginInfo.PLUGIN_GUID, MyPluginInfo.PLUGIN_NAME, MyPluginInfo.PLUGIN_VERSION)]
+[BepInPlugin("dev.nevah5.mods.lethal-company.all-my-fellas-radio", "AllMyFellasRadio", "1.0.0")]
 public class Plugin : BaseUnityPlugin
 {
     private void Awake()
