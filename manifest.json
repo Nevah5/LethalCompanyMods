@@ -2,6 +2,6 @@
   "name": "All my Fellas Radio",
   "description": "This mod replaces the worst default boombox/radio sound track (in my opinion), with the \"All my fellas\" song.",
   "version_number": "1.0.0",
-  "dependencies": [],
-  "website_url": "https://github.com/Nevah5/all-my-fellas"
+  "dependencies": [ "BepInEx-BepInExPack-5.4.2100" ],
+  "website_url": "https://github.com/Nevah5/all-my-fellas-radio"
 }
